@@ -1,0 +1,147 @@
+a{
+    text-decoration:none !important;
+}
+
+.main-nav{
+    color:white;
+    background: #eeeeee; /* Old browsers */
+    background: -moz-linear-gradient(top,  #eeeeee 16%, #eeeeee 30%, #eeeeee 30%, #eeeeee 32%, #cccccc 100%); /* FF3.6+ */
+    background: -webkit-gradient(linear, left top, left bottom, color-stop(16%,#eeeeee), color-stop(30%,#eeeeee), color-stop(30%,#eeeeee), color-stop(32%,#eeeeee), color-stop(100%,#cccccc)); /* Chrome,Safari4+ */
+    background: -webkit-linear-gradient(top,  #eeeeee 16%,#eeeeee 30%,#eeeeee 30%,#eeeeee 32%,#cccccc 100%); /* Chrome10+,Safari5.1+ */
+    background: -o-linear-gradient(top,  #eeeeee 16%,#eeeeee 30%,#eeeeee 30%,#eeeeee 32%,#cccccc 100%); /* Opera 11.10+ */
+    background: -ms-linear-gradient(top,  #eeeeee 16%,#eeeeee 30%,#eeeeee 30%,#eeeeee 32%,#cccccc 100%); /* IE10+ */
+    background: linear-gradient(to bottom,  #eeeeee 16%,#eeeeee 30%,#eeeeee 30%,#eeeeee 32%,#cccccc 100%); /* W3C */
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#eeeeee', endColorstr='#cccccc',GradientType=0 ); /* IE6-9 */
+
+}
+
+.main-nav .container{
+    width:100%;
+    padding:0px;
+}
+
+.main-nav .navbar-header{
+    width:100%;
+}
+
+.main-nav .row{
+    margin:0px;
+}
+
+.main-nav .upper-header, .main-nav .header-icons{
+    color:grey;
+}
+
+.main-nav .lower-header p{
+    display:inline-block;
+}
+
+
+.main-nav .container ul{
+    width:100%;
+    background-color:black;
+}
+
+.main-nav .container ul li a{
+    color:white;
+}
+
+.main-container{
+    margin:0px 15px;
+    padding:0px;
+    width:98%;
+    margin-top:136px;
+}
+
+.main-results-container{
+    padding:0px;
+    border:1px gainsboro solid;
+    margin-left:-15px;
+}
+
+.main-results-container .container{
+    width:100%;
+}
+
+.off-canvas-toggle{
+    background-color:red !important;
+}
+
+.off-canvas-toggle a{
+    color:white !important;
+}
+
+.secondary-menu{
+    background:black;
+}
+
+.sidebar-image-div{
+    margin-bottom:10px;
+}
+
+.result-mrp{
+    color:red;
+}
+
+.results-img-container{
+    margin:0px 5px;
+}
+
+.recommendation-info{
+    margin:0px 20px;
+}
+
+.icon-padding{
+    padding:0px 12px;
+}
+
+
+.offcanvas-menu a span{
+    font-size: 11px; 
+}
+
+.offcanvas-menu a{
+    background-color:#f5f5f5;
+}
+
+.offcanvas-menu a.active, .offcanvas-menu a:hover, .offcanvas-menu a.active:hover{
+    color:red;
+    background-color:white;
+    border-color:#ddd;
+    border-right:solid 4px red;
+}
+
+
+.secondary-menu .navbar-nav > li {
+    border-right: 1px solid #444443;
+    
+}
+
+.secondary-menu .navbar-inverse .navbar-nav > .active > a, .navbar-inverse .navbar-nav > .active > a:hover{
+    background-color:transparent;
+}
+
+.zivame-logo img{
+    padding:5px;
+}
+
+.header-icons{
+    padding-top:24px;
+    font-size: 11px;
+}
+
+.search-icon-wrap, .toggle-button-wrapper a span{
+    color:black;
+}
+
+
+.search-tab{
+    padding-top:15px;
+}
+
+.main-nav .upper-header{
+    font-size:11px;
+}
+
+
+

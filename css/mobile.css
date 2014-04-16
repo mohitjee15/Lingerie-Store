@@ -1,0 +1,76 @@
+@media screen and (max-width : 767px){
+    
+    /***********Bootstrap Nav bar override************/
+    .secondary-menu.navbar {
+        border-radius: 4px;
+    }
+    
+    .secondary-menu .navbar-nav {
+        float: left;
+        margin: 0;
+    }
+    
+    .secondary-menu .navbar-nav > li {
+        float: left;
+    }
+    
+    .secondary-menu .navbar-nav > li > a {
+        padding-top: 15px;
+        padding-bottom: 15px;
+    }
+    
+    .secondary-menu .nav > li > a {
+        position: relative;
+        display: block;
+        padding: 15px 10px;
+    }
+    
+    .offcanvas-menu{
+        position:static;
+    }
+    
+    /*********************************************/
+    
+    .main-results-container{
+        margin-left:0px;
+    }
+    
+    .lower-header > div{
+        border-right:1px solid gainsboro;
+    }
+    
+    .search-icon-wrap, .toggle-button-wrapper a span{
+        font-size: 20px;
+        margin: 0px;
+        
+    }
+    
+    .toggle-button-wrapper{
+        padding-top: 14px;
+    }
+    
+    .toggle-button-wrapper, .search-tab{
+        text-align: center;
+    }
+    
+    .navbar-collapse{
+        background:black;
+    }
+    
+    .container > .navbar-header{
+        margin:0px;
+    }
+    
+    .lower-header{
+        border-top:1px solid gainsboro;
+    }
+    
+    .container .navbar-inverse{
+        border:none;
+    }
+
+    .main-container{
+        margin-top:75px;
+    }
+
+}
